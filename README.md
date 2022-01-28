@@ -1,1 +1,1 @@
-# FastAi Deploment Excersice
+# FastAi Deployment Demo
